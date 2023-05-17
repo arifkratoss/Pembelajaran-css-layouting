@@ -1,0 +1,6 @@
+.Position{
+    -Statis:dia tidak berubah apabila di kasih default seperti ini
+    -Relative:dia akan berubah (seolah-olah beda demensi)
+    -Absolute:untuk merubah position yang ada di dalamm ,dan agar tidak keluar kita harus kati relative terhadap container /div yang membungkus
+    -Fixed:dia tidak bergerak dan akan diam
+}
